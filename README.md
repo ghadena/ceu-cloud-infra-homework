@@ -1,9 +1,8 @@
-# ceu-cloud-infra-homework-example
+# ceu-cloud-infra-homework
 Example for delivering the CEU Cloud Computing Pipeline Homework.
 
 Ensure you add @zoltanctoth and @mikepetridisz as collaborators and share the repo URL with us.
 
-Fill in your student id:
-# MY STUDENT ID: {{ REPLACE THIS WITH YOUR STUDENT ID }}
-# MY S3 BUCKET: {{ REPLACE THIS WITH YOUR BUCKET NAME }}
+# MY STUDENT ID: 2104155
+# MY S3 BUCKET: gh25-wikidata
 
